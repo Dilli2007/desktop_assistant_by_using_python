@@ -1,8 +1,10 @@
 greeting
 name
 address
+study & work
 hobbies
 strength & weakness
+likes & dislikes
 Skills
 Goal
 Family
