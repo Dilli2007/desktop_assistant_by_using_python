@@ -8,3 +8,5 @@ likes & dislikes
 Skills
 Goal
 Family
+Character
+Behavior
