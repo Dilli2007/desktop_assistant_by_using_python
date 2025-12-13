@@ -1,8 +1,12 @@
-greeting
-name
+greeting ->hello
+name -> dilli 
 address
+study & work
 hobbies
 strength & weakness
+likes & dislikes
 Skills
 Goal
 Family
+Character
+Behavior
